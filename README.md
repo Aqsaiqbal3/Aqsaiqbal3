@@ -1,12 +1,12 @@
-# Hi there! 👋
+Hi there 👋
+I'm Aqsaiqbal a web developer passionate about crafting engaging and functional websites. ✨ special ✨ .
 
-<b> I'm [Aqsa Iqbal], a [Your Profession/Title] with a passion for [Your Key Areas of Expertise].<br> My journey in the tech world has been an exciting blend of [Highlight Your Experience or Interests]. I'm currently [What You're Currently Working On or Learning], and I thrive on collaborating with like-minded individuals to create impactful solutions. Let's connect and build something amazing together<b>! 🚀
-- 🔭 I’m currently working on hTML,css,Js,Jquery
-- 🌱 I’m currently learning mern stack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on building a responsive e-commerce webistes
+🌱 I’m currently learning and exploring the latest trends in web development
+👯 Open to collaboration on exciting HTML, CSS, and JavaScript projects. Let's create something awesome together! Excited about collaborating on projects that involve creativity and innovation. If you have an idea, let's bring it to life!
+🤔 I’m looking for help with ...
+💬 Ask me about Front-end development, UI/UX design, Web accessibility, responsive design, recommendations for the latest tech reads or anything related to creating a seamless user experience.
+📫 How to reach me: Connect with me on Twitter | LinkedIn | Email
+😄 Pronouns: She/Her
+📜 Nerd Alert: I collect and frame snippets of code from my favorite projects. My wall is slowly turning into a museum of my coding adventures.
+⚡ Fun fact:
